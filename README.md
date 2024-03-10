@@ -1,1 +1,7 @@
-# .github
+# ANDA GUIDELINES TO WRITE HIGH QUALITY CODE
+
+## Commits
+
+## Branches
+
+## PR's
